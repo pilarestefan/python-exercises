@@ -3,7 +3,7 @@
 	descuento: La función descuento requiere el precio del producto y el descuento a aplicar, me indica el valor del producto con el descuento aplicado.
 	calcularImc : el imc es un indicador para el índice de masa corporal, el indicador requiere la estatura (en metros) y la masa (en kg) , el calcula se realiza de la siguiente forma, imc = masa/estatura2, una vez se tenga el indicador, se deberá indicar el estado de la persona de acuerdo a la siguiente tabla. 
  
- ![image](image.png =243x185)
+ ![image](image.png){ width=50% }
 
 2. Crear el archivo “Main”, importar el archivo funciones, luego crear un menú con las siguientes opciones:
 *	calcularIva
